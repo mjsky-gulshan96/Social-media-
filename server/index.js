@@ -5,7 +5,7 @@ const mongoose=require("mongoose");
 const multer = require("multer");
 const path = require("path");
 
-var cors = require('cors')
+const cors = require('cors')
 app.use(cors());
 
 const UserRoute=require('./routes/users')

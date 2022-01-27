@@ -58,7 +58,6 @@ const UserSchema= mongoose.Schema({
 {timestamps:true}
 )
 
-// hashing the pass word here
 
 UserSchema.pre('save', async function(next){
     

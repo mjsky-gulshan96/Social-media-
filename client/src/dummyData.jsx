@@ -1,52 +1,52 @@
 export const Users = [
     {
       id:1,
-      profilePicture: "profilePictures/nopic.png",
+      profilePicture: "profilePictures/widow.jpg",
       username: "Natasha",
     },
     {
       id:2,
-      profilePicture: "profilePictures/nopic.png",
+      profilePicture: "profilePictures/steve.jpg",
       username: "Steve Rogers",
     },
     {
       id:3,
-      profilePicture: "profilePictures/nopic.png",
+      profilePicture: "profilePictures/strange.jpg",
       username: "Stephen strange",
     },
     {
       id:4,
-      profilePicture: "profilePictures/nopic.png",
+      profilePicture: "profilePictures/ironman.jpg",
       username: "Robert Downey Junior",
     },
     {
       id:5,
-      profilePicture: "profilePictures/nopic.png",
+      profilePicture: "profilePictures/peter.jpg",
       username: "Peter Parker",
     },
     {
       id:6,
-      profilePicture: "profilePictures/nopic.png",
+      profilePicture: "profilePictures/loki.jpg",
       username: "Loki",
     },
     {
       id:7,
-      profilePicture: "profilePictures/nopic.png",
+      profilePicture: "profilePictures/thanos.jpg",
       username: "Thanos",
     },
     {
       id:8,
-      profilePicture: "profilePictures/nopic.png",
+      profilePicture: "profilePictures/capm.jpg",
       username: "captain marvel",
     },
     {
       id:9,
-      profilePicture: "profilePictures/nopic.png",
+      profilePicture: "profilePictures/clint.jpg",
       username: "clint",
     },
     {
       id:10,
-      profilePicture: "profilePictures/nopic.png",
+      profilePicture: "profilePictures/hulk.jpg",
       username: "Bruce Banner",
     },
   ];
